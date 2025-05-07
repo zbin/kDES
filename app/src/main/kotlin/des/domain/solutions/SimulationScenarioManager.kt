@@ -1,6 +1,6 @@
 package ai.moying.app.des.domain.solutions
 
-import ai.moying.app.SimulationConfig
+import ai.moying.app.des.domain.engine.SimulationConfig
 
 // 多方案配置管理
 class SimulationScenarioManager {
